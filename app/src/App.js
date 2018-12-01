@@ -17,7 +17,7 @@ class App extends Component {
           <meta charSet="utf-8" />
           <title>React Title Management</title>
         </Helmet>
-        <h1>React Title Managementt</h1>
+        <h1>React Title Management</h1>
 
         <div>
           <a href="https://github.com/clane/React-basic-routing">
