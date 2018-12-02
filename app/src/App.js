@@ -20,8 +20,8 @@ class App extends Component {
         <h1>React Title Management</h1>
 
         <div>
-          <a href="https://github.com/clane/React-basic-routing">
-            https://github.com/clane/React-basic-routing
+          <a href="https://github.com/clane/React-basic-routing-with-title">
+			      https://github.com/clane/React-basic-routing-with-title
           </a>
         </div>
 
