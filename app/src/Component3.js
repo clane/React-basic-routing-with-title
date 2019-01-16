@@ -9,7 +9,7 @@ class Component3 extends Component {
         <Helmet>
           <html lang="en" />
           <meta charSet="utf-8" />
-          <title>Component 3</title>
+          <title>Title for Component 3</title>
         </Helmet>
         <h2>Component 3</h2>
         <img className="cat" src={cat3} alt="" />
