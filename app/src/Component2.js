@@ -12,7 +12,7 @@ class Component2 extends Component {
           <title>Title for Component 2</title>
         </Helmet>
 
-        <h2>Title for Component 2</h2>
+        <h2>Heading for Component 2</h2>
         <img className="cat" src={cat2} alt="" />
       </div>
     );

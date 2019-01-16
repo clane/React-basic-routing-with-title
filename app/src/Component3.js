@@ -11,7 +11,7 @@ class Component3 extends Component {
           <meta charSet="utf-8" />
           <title>Title for Component 3</title>
         </Helmet>
-        <h2>Component 3</h2>
+        <h2>Heading for Component 3</h2>
         <img className="cat" src={cat3} alt="" />
       </div>
     );
