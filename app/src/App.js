@@ -20,9 +20,17 @@ class App extends Component {
         <h1>React Title Management</h1>
 
         <div>
+			    Github URL:&nbsp;
           <a href="https://github.com/clane/React-basic-routing-with-title">
 			      https://github.com/clane/React-basic-routing-with-title
           </a>
+        </div>
+        <div>
+			    Hosting URL:&nbsp;
+			    <a href="http://www.chrislane.info/REACT/React-title-management">
+	      		http://www.chrislane.info/REACT/React-title-management
+			    </a>
+
         </div>
 
         <BrowserRouter>
